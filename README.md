@@ -4,7 +4,7 @@
 
 I'm an AI automation engineer who ships: discovery, build, hardening (rate limits, retries, evals), and measurable ROI. Self-taught and production-focused across Claude, agents, RAG, MCP, and local LLMs. By background I'm a systems and IT engineer who got tired of filing tickets about broken workflows and learned to build the fixes instead.
 
-[simplefixai.com](https://simplefixai.com) · [coachfile.app](https://coachfile.app) · [sfxtechinnovation.com](https://sfxtechinnovation.com) · [LinkedIn](https://linkedin.com/in/jessegjolly)
+[jessejolly.com](https://jessejolly.com) · [simplefixai.com](https://simplefixai.com) · [coachfile.app](https://coachfile.app) · [sfxtechinnovation.com](https://sfxtechinnovation.com) · [LinkedIn](https://linkedin.com/in/jessegjolly)
 
 ---
 
@@ -38,4 +38,4 @@ I'm an AI automation engineer who ships: discovery, build, hardening (rate limit
 
 ---
 
-*SFX Tech Innovation LLC. Building with AI, in AI, and the systems around AI. jessejolly.com coming soon.*
+*SFX Tech Innovation LLC. Building with AI, in AI, and the systems around AI. [jessejolly.com](https://jessejolly.com).*
